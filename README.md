@@ -8,6 +8,13 @@
 dotnet new console -n RemoveBluetoothDevice
 ```
 
+## Installer le Windows Driver Kit (WDK) :
+
+```
+winget search "Windows Driver Kit"
+winget install Microsoft.WindowsDriverKit
+```
+
 ## Ajouter le Package SDK Windows :
 
 ```
